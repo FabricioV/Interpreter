@@ -7,8 +7,8 @@ Com o padrão Interpreter, podemos utilizar expressões regulares e ter somente 
 
 # Desenvolvendo o Assunto
 ###Casos de Uso
-*Formato das consultas em banco de dados especializados como em SQL.
-*Formato de mensagens usados pelos protocolos de comunicação.
-*Tradução/conversão de linguagens ou símbolos para outra linguagem como números romanos para números decimais.
-*Uso em expressões regulares ou XML.
-*Uso de interpretação de formato em datas como DD-MM-AAAA ou MM-DD-AAAA.
+- Formato das consultas em banco de dados especializados como em SQL.
+- Formato de mensagens usados pelos protocolos de comunicação.
+- Tradução/conversão de linguagens ou símbolos para outra linguagem como números romanos para números decimais.
+- Uso em expressões regulares ou XML.
+- Uso de interpretação de formato em datas como DD-MM-AAAA ou MM-DD-AAAA.
