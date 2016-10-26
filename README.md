@@ -17,6 +17,9 @@ Com o padrão Interpreter, podemos utilizar expressões regulares e ter somente 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Interpreter.png)
 
 ### Formatando data MySQL
-``
-DATE_FORMAT(dataHora, '%d/%m/%Y - %H:%i')
-``
+
+####DATE_FORMAT(dataHora, '%d/%m/%Y - %H:%i')
+
+### Expressão Regular
+####[0-9][A-Z]{3}
+
