@@ -11,3 +11,5 @@ Com o padrão Interpreter, podemos utilizar expressões regulares e ter somente 
 - Tradução/conversão de linguagens ou símbolos para outra linguagem como números romanos para números decimais;
 - Uso em expressões regulares ou XML;
 - Uso de interpretação de formato em datas como DD-MM-AAAA ou MM-DD-AAAA.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Interpreter.png)
