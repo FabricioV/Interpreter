@@ -12,4 +12,11 @@ Com o padrão Interpreter, podemos utilizar expressões regulares e ter somente 
 - Uso em expressões regulares ou XML;
 - Uso de interpretação de formato em datas como DD-MM-AAAA ou MM-DD-AAAA.
 
+# Exemplos
+### Interpretando uma nota 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/Interpreter.png)
+
+### Formatando data MySQL
+```
+DATE_FORMAT(dataHora, '%d/%m/%Y - %H:%i')
+```
